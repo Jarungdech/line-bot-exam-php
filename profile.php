@@ -5,7 +5,7 @@ $access_token = 'ZqAb5LTJwzOzIiX5hr9VYTWsc8t4hwp7V86B61uVAV4XuZjaokLxt/RQoBrlb13
 
 $userId = '1594721038';
 
-$url = 'http://chatbotoffirst.herokuapp.com/'.$userId;
+$url = 'https://chatbotoffirst.herokuapp.com/'.$userId;
 
 $headers = array('Authorization: Bearer ' . $access_token);
 
